@@ -5,6 +5,7 @@ Primarily a refined colour scheme that is easy on the eyes and takes small UI el
 
 ## Installation
 Installation is easy, just follow these steps:
+
 1. Open your Sublime Text packages directory `Preferences` → `Browse Packages`
 1. Pop `cobalt2.tmTheme` into any directory in here. I like to put mine in the `Users` directory.
 1. Activate under `Preferences` → `Color Scheme` 
