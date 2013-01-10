@@ -4,6 +4,7 @@ A Sublime Text theme based on our old blue friend cobalt.
 Primarily a refined colour scheme that is easy on the eyes and takes small UI elements into account. See below for examples.
 
 ## Installation
+
 Installation is easy, just follow these steps:  
 1. Open your Sublime Text packages directory `Preferences` → `Browse Packages`  
 2. Drop in the `Theme - Cobalt2` directory here  
