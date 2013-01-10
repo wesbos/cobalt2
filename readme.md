@@ -49,5 +49,7 @@ If these are the last two lines of your settings file, make sure to omit the tra
 While cobalt2 covers all languages, I write mostly JavaScript and CSS so I welcome any additions for other languages.
 
 ### Thanks
+
 Images borrowed from [Soda Theme by Ian Hill](https://github.com/buymeasoda/soda-theme/)
+
 [Kyle Knight](https://twitter.com/idpro) for pushing cobolt2 past the code screen and styling the entire editor.
