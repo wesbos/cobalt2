@@ -14,7 +14,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#002f4f</string>
+        <string>#193549</string>
         <key>caret</key>
         <string>#ffc600</string>
         <key>foreground</key>
@@ -34,7 +34,7 @@
 
         <key>activeGuide</key>
         <string>#ffc600</string>
-        
+
       </dict>
     </dict>
     <dict>

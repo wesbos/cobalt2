@@ -1,21 +1,25 @@
 #cobalt2
 A Sublime Text theme based on our old blue friend cobalt.
 
-Primarily a refined colour scheme that is easy on the eyes and takes small UI elements into account. See below for examples.
+A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...).
+
+See below for examples.
 
 ## Installation
 
 Installation is easy, just follow these steps:  
 1. Open your Sublime Text packages directory `Preferences` → `Browse Packages`  
-2. Drop in the `Theme - Cobalt2` directory here  
-3. Pop `cobalt2.tmTheme` into any directory in here. I like to put mine in the `Users` directory.  
-4. Activate under `Preferences` → `Color Scheme` → `Cobalt2`  
-5. Lastly, open `Preferences` → `Settings - User`, you should see ` "color_scheme": "Packages/User/cobalt2.tmTheme",` just add `"theme": "Cobalt2.sublime-theme",` directly underneath
+1. Drop in the `Theme - Cobalt2` directory here  (Right into /Preferences/)
+1. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
 
-![](http://wes.io/LwV7/content)
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"theme": "Cobalt2.sublime-theme",
+
+If these are the last two lines of your settings file, make sure to omit the trailing `,`
 
 ## Screenshots
 
+![](http://wes.io/M48G/content)
 
 ### Indents, searches, current line and folding
 ![](http://wes.io/LwXu/content)
@@ -46,3 +50,4 @@ While cobalt2 covers all languages, I write mostly JavaScript and CSS so I welco
 
 ### Thanks
 Images borrowed from [Soda Theme by Ian Hill](https://github.com/buymeasoda/soda-theme/)
+[Kyle Knight](https://twitter.com/idpro) for pushing cobolt2 past the code screen and styling the entire editor.
