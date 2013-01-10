@@ -3,7 +3,7 @@ A Sublime Text theme based on our old blue friend cobalt.
 
 A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...).
 
-See below for examples.
+See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-text-2/](http://wesbos.com/cobalt2-theme-sublime-text-2/)
 
 ## Installation
 
