@@ -7,7 +7,7 @@
   <key>author</key>
   <string>Wes Bos</string>
   <key>name</key>
-  <string>Wesbalt</string>
+  <string>cobalt2</string>
   <key>settings</key>
   <array>
     <dict>
@@ -446,8 +446,6 @@
       <dict>
         <key>background</key>
         <string>#000E1A</string>
-        <key>fontStyle</key>
-        <string></string>
         <key>foreground</key>
         <string>#F8F8F8</string>
       </dict>
@@ -460,7 +458,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#4C0900</string>
+        <string>#ee3a43</string>
         <key>foreground</key>
         <string>#F8F8F8</string>
       </dict>
@@ -565,8 +563,97 @@
         <string>#C8E4FD</string>
       </dict>
     </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Annotations</string>
+        <key>scope</key>
+        <string>sublimelinter.annotations</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#FFFFAA</string>
+            <key>foreground</key>
+            <string>#FFFFFF</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Error Outline</string>
+        <key>scope</key>
+        <string>sublimelinter.outline.illegal</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#FF4A52</string>
+            <key>foreground</key>
+            <string>#FFFFFF</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Error Underline</string>
+        <key>scope</key>
+        <string>sublimelinter.underline.illegal</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#FF0000</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Warning Outline</string>
+        <key>scope</key>
+        <string>sublimelinter.outline.warning</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#DF9400</string>
+            <key>foreground</key>
+            <string>#FFFFFF</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Warning Underline</string>
+        <key>scope</key>
+        <string>sublimelinter.underline.warning</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#FF0000</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Violation Outline</string>
+        <key>scope</key>
+        <string>sublimelinter.outline.violation</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#ffffff</string>
+            <key>foreground</key>
+            <string>#FFFFFF</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>SublimeLinter Violation Underline</string>
+        <key>scope</key>
+        <string>sublimelinter.underline.violation</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#FF0000</string>
+        </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>06CD1FB2-A00A-4F8C-97B2-60E131980454</string>
 </dict>
+
+
+<!-- Sublime Linter -->
+
 </plist>

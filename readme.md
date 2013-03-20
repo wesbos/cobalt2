@@ -1,16 +1,16 @@
 #cobalt2
 A Sublime Text theme based on our old blue friend cobalt.
 
-A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...).
+A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins.
 
-See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-text-2/](http://wesbos.com/cobalt2-theme-sublime-text-2/)
+See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-text-2/](http://weswbos.com/cobalt2-theme-sublime-text-2/)
 
 ## Installation
 
 Installation is easy, just follow these steps:  
 1. Open your Sublime Text packages directory `Preferences` → `Browse Packages`  
-1. Drop in the `Theme - Cobalt2` directory here  (Right into /Preferences/)
-1. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
+2. Download this repo, rename the folder to `Theme - Cobalt2`, and Drop in the `Theme - Cobalt2` directory here  (Right into /Preferences/). It is very important that the folder name is exactly `Theme - Cobalt2`. 
+3. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
 
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"theme": "Cobalt2.sublime-theme",

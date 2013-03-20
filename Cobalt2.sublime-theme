@@ -462,7 +462,7 @@
     {
         "class": "sidebar_tree",
         "row_padding": [8, 3],
-        "indent": 15,
+        "indent": 5,
         "indent_offset": 15,
         "indent_top_level": false,
         "dark_content": true
