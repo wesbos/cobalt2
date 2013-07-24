@@ -22,7 +22,12 @@ If these are the last two lines of your settings file, make sure to omit the tra
 ![](http://wes.io/M48G/content)
 
 ### Indents, searches, current line and folding
+
 ![](http://wes.io/LwXu/content)
+
+### Guide, Stacked Guide and Active Guide
+Use `"indent_guide_options": ["draw_normal", "draw_active"]` for this 
+![](http://wes.io/QQrJ/content)
 
 ### Tabs, spaces and comments
 ![](http://wes.io/LwvE/content)
