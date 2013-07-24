@@ -32,8 +32,12 @@
         <key>bracketContentsForeground</key>
         <string>#000000</string>
 
+        <key>guide</key>
+        <string>#3b5364</string>
         <key>activeGuide</key>
         <string>#ffc600</string>
+        <key>stackGuide</key>
+        <string>#5a7b92</string>
 
       </dict>
     </dict>
