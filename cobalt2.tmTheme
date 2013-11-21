@@ -652,6 +652,31 @@
             <string>#FF0000</string>
         </dict>
     </dict>
+    
+    <!-- PHP -->
+    
+    <dict>
+        <key>name</key>
+        <string>PHP class name</string>
+        <key>scope</key>
+        <string>entity.name.type.class.php</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#80FFC2</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>PHP function name</string>
+        <key>scope</key>
+        <string>entity.name.function.php</string>
+        <key>settings</key>
+        <dict>
+            <key>background</key>
+            <string>#333333</string>
+        </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>06CD1FB2-A00A-4F8C-97B2-60E131980454</string>
