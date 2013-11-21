@@ -7,7 +7,17 @@ See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-te
 
 ## Installation
 
-Installation is easy, just follow these steps:  
+### With Package Control
+
+1. Open package control `tools` → `Command Palette` and type `Install Package`
+2. Search for Cobalt2 and hit enter
+3. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
+
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"theme": "Cobalt2.sublime-theme",
+
+### Without Package Control 
+
 1. Open your Sublime Text packages directory `Preferences` → `Browse Packages`  
 2. Download this repo, rename the folder to `Theme - Cobalt2`, and Drop in the `Theme - Cobalt2` directory here  (Right into /Preferences/). It is very important that the folder name is exactly `Theme - Cobalt2`. 
 3. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
