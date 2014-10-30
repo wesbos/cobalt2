@@ -29,42 +29,89 @@ If these are the last two lines of your settings file, make sure to omit the tra
 
 ## Screenshots
 
-![](http://wes.io/M48G/content)
+![](http://wes.io/YIjn/content)
 
-### Indents, searches, current line and folding
+### Sidebar Icons
 
-![](http://wes.io/LwXu/content)
+![](http://wes.io/YIjh/content)
 
-### Guide, Stacked Guide and Active Guide
+### Dirty Tab and Selected Tab
+![](http://wes.io/YIZx/content)
+
+### Indentation Guides — Guide, Stacked Guide and Active Guide
+
 Use `"indent_guide_options": ["draw_normal", "draw_active"]` for this 
-![](http://wes.io/QQrJ/content)
 
-### Tabs, spaces and comments
-![](http://wes.io/LwvE/content)
+### GitGutter Support
+
+![](http://wes.io/YIu3/content)
+
+### Autocomplete
+
+![](http://wes.io/YItl/content)
+
+### Command Palette 
+
+![](http://wes.io/YIpV/content)
+
+### GoTo Anything
+
+![](http://wes.io/YIhm/content)
+
+### Tabs, Spaces and Comments
+
+![](http://wes.io/YIho/content)
+
+### Folding Lines
+
+![](http://wes.io/YImN/content)
+
+### Searches
+![](http://wes.io/YIj0/content)
+
+### Highlighted Line
+
+![](http://wes.io/YIpZ/content)
 
 ### JavaScript
 ![](http://wes.io/Lwc6/content)
 
 ### CSS
-![](http://wes.io/LwkX/content)
+![](http://wes.io/YIqI/content)
 
 ### PHP
-![](http://wes.io/LwWI/content)
+![](http://wes.io/YIa5/content)
 
 ### Ruby
-![](http://wes.io/Lx1i/content)
+![](http://wes.io/YIpO/content)
 
 ### Python
-![](http://wes.io/Lwt2/content)
+![](http://wes.io/YIuH/content)
 
 ### Markdown
-![](http://wes.io/Lwuv/content)
+![](http://wes.io/YItl/content)/content)
 
 ## Contributing
 While cobalt2 covers all languages, I write mostly JavaScript and CSS so I welcome any additions for other languages.
 
 ### Thanks
 
-Images borrowed from [Soda Theme by Ian Hill](https://github.com/buymeasoda/soda-theme/)
+Some icons from [Soda Theme by Ian Hill](https://github.com/buymeasoda/soda-theme/)
 
-[Kyle Knight](https://twitter.com/idpro) for pushing cobolt2 past the code screen and styling the entire editor.
+[Kyle Knight](https://twitter.com/idpro) for pushing cobalt2 past the code screen and styling the entire editor.
+
+Seti UI Atom theme for the sidebar icons
+
+## Official Colours
+
+Yellow: #ffc600
+Blue: #193549
+Dusty Blue 35434d
+Dark Blue: #15232D
+
+
+### You may also like:
+
+Cobalt2 Theme for iTerm <https://github.com/wesbos/Cobalt2-iterm>
+
+[Sublime Text Power User Book](https://SublimeTextBook.com)

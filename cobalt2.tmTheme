@@ -77,7 +77,7 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#FFDD00</string>
+        <string>#ffc600</string>
       </dict>
     </dict>
     <dict>
@@ -103,7 +103,7 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#FFDD00</string>
+        <string>#ffc600</string>
       </dict>
     </dict>
     <dict>
