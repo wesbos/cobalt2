@@ -89,7 +89,8 @@ Use `"indent_guide_options": ["draw_normal", "draw_active"]` for this
 ![](http://wes.io/YIuH/content)
 
 ### Markdown
-![](http://wes.io/YItl/content)/content)
+
+![](http://wes.io/YJMN/content)
 
 ## Contributing
 While cobalt2 covers all languages, I write mostly JavaScript and CSS so I welcome any additions for other languages.
