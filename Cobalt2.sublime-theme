@@ -25,7 +25,7 @@
     // Tab element
     {
         "class": "tab_control",
-        "content_margin": [22, 30, 12, 3],
+        "content_margin": [14, 0, 12, 3],
         "max_margin_trim": 0,
         "hit_test_level": 0.0,
         "layer0.texture": "Theme - Cobalt2/Cobalt2/tab-inactive.png",
