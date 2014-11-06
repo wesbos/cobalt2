@@ -7,8 +7,6 @@ See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-te
 
 ## Installation
 
-### With Package Control
-
 1. Open package control `tools` → `Command Palette` and type `Install Package`
 2. Search for Cobalt2 and hit enter
 3. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
@@ -18,18 +16,11 @@ See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-te
 "theme": "Cobalt2.sublime-theme",
 ```
 
-### Without Package Control 
+`color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
 
-1. Open your Sublime Text packages directory `Preferences` → `Browse Packages`  
-2. Download this repo, rename the folder to `Theme - Cobalt2`, and Drop in the `Theme - Cobalt2` directory here  (Right into /Preferences/). It is very important that the folder name is exactly `Theme - Cobalt2`. 
-3. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
+## Requirements
 
-```
-"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-"theme": "Cobalt2.sublime-theme",
-```
-
-If these are the last two lines of your settings file, make sure to omit the trailing `,`
+* For sidebar icons, you need to be running the latest version of Sublime Text 3 - this feature is very new and not supported in older versions of Sublime Text.
 
 ## Screenshots
 
@@ -114,9 +105,10 @@ Blue: #193549
 Dusty Blue 35434d
 Dark Blue: #15232D
 
-
 ### You may also like:
 
 Cobalt2 Theme for iTerm <https://github.com/wesbos/Cobalt2-iterm>
+Cobalt2 for Alfred <https://github.com/wesbos/Cobalt2-Alfred-Theme>
+Cobalt2 for Atom (WIP) <https://github.com/wesbos/cobalt2-atom>
 
-[Sublime Text Power User Book](https://SublimeTextBook.com)
+I also wrote the [Sublime Text Power User Book and video package](https://SublimeTextBook.com) - if you want to become amazing with Sublime Text, check it out!
