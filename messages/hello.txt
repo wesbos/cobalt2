@@ -14,6 +14,7 @@ Many new things have been added, including:
 - autocomplete, goto anything and command palette refinements
 
 📖 📖 📖 
+
 PS I wrote a book + video series on Sublime Text! Check it out - https://SublimeTextBook.com - Use the coupon code COBALT2 for $15 off 💰 💵
 
 📖 📖 📖
