@@ -107,8 +107,8 @@ Dark Blue: #15232D
 
 ### You may also like:
 
-Cobalt2 Theme for iTerm <https://github.com/wesbos/Cobalt2-iterm>
-Cobalt2 for Alfred <https://github.com/wesbos/Cobalt2-Alfred-Theme>
-Cobalt2 for Atom (WIP) <https://github.com/wesbos/cobalt2-atom>
+- Cobalt2 Theme for iTerm <https://github.com/wesbos/Cobalt2-iterm>
+- Cobalt2 for Alfred <https://github.com/wesbos/Cobalt2-Alfred-Theme>
+- Cobalt2 for Atom (WIP) <https://github.com/wesbos/cobalt2-atom>
 
 I also wrote the [Sublime Text Power User Book and video package](https://SublimeTextBook.com) - if you want to become amazing with Sublime Text, check it out!
