@@ -94,7 +94,7 @@ While cobalt2 covers all languages, I write mostly JavaScript and CSS so I welco
 
 Some icons from [Soda Theme by Ian Hill](https://github.com/buymeasoda/soda-theme/)
 
-[Kyle Knight](https://twitter.com/idpro) for pushing cobalt2 past the code screen and styling the entire editor.
+[Kyle Knight](https://twitter.com/kyleknighted) for pushing cobalt2 past the code screen and styling the entire editor.
 
 Seti UI Atom theme for the sidebar icons
 
