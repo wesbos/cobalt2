@@ -652,9 +652,9 @@
             <string>#FF0000</string>
         </dict>
     </dict>
-    
+
     <!-- PHP -->
-    
+
     <dict>
         <key>name</key>
         <string>PHP class name</string>
@@ -846,7 +846,7 @@
 
 
     <!-- CSS -->
-    
+
 <!--     <dict>
       <key>name</key>
       <string>CSS Property Name</string>
@@ -884,9 +884,6 @@
         <string>#214a68</string>
       </dict>
     </dict>
-
-
-
   </array>
   <key>uuid</key>
   <string>06CD1FB2-A00A-4F8C-97B2-60E131980454</string>
