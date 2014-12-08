@@ -55,7 +55,7 @@
         "class": "tab_control",
         "settings": ["!show_tab_close_buttons"],
         "attributes": ["dirty"],
-        "content_margin": [12, 3, 7, 3]
+        "content_margin": [14, 0, 7, 3]
     },
 
 //
@@ -224,7 +224,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Cobalt2/Cobalt2/fold-closed.png" 
+        "layer0.texture": "Theme - Cobalt2/Cobalt2/fold-closed.png"
     },
     {
         "class": "fold_button_control",
@@ -470,7 +470,7 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Cobalt2/Cobalt2/sidebar-row-selected.png", 
+        "layer0.texture": "Theme - Cobalt2/Cobalt2/sidebar-row-selected.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },
