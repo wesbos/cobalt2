@@ -102,7 +102,7 @@ Seti UI Atom theme for the sidebar icons
 
 Yellow: #ffc600
 Blue: #193549
-Dusty Blue 35434d
+Dusty Blue: #35434d
 Dark Blue: #15232D
 
 ### You may also like:
