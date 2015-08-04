@@ -9,12 +9,10 @@ See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-te
 
 1. Open package control `tools` → `Command Palette` and type `Install Package`
 2. Search for Cobalt2 and hit enter
-3. Lastly, open `Preferences` → `Settings - User`. Add the following two lines:
-
-```
-"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-"theme": "Cobalt2.sublime-theme",
-```
+3. Penultimately, open `Preferences` → `Settings - User`. Add the following two lines:
+    * `"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",`
+    * `"theme": "Cobalt2.sublime-theme",`
+4. Finally, restart Sublime for the Theme to be fully applied.
 
 `color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
 
