@@ -14,7 +14,26 @@ See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-te
     * `"theme": "Cobalt2.sublime-theme",`
 4. Finally, restart Sublime for the Theme to be fully applied.
 
-`color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work. 
+`color_scheme` defines how the code looks and `theme` defines how the sidebar, tabs, search, command palette work.
+
+## Options
+#### Sidebar Font Size
+Change the sidebar's font size by using these settings in your user config:
+```json
+{
+"sidebar_font_big": true,
+"sidebar_font_small": true
+}
+```
+#### Sidebar Padding
+Adjust the sidebar's padding by using these settings in your user config:
+```json
+{
+"sidebar_medium": true,
+"sidebar_large": true,
+"sidebar_xlarge": true
+}
+```
 
 ## Requirements
 
