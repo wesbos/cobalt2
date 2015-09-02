@@ -10,7 +10,7 @@
         "layer0.texture": "Theme - Cobalt2/Cobalt2/tabset-background.png",
         "layer0.inner_margin": [1, 7],
         "layer0.opacity": 1.0,
-        "content_margin": [-4, 0, -4, 3],
+        "content_margin": [2, 0, 4, 3],
         "tab_overlap": 5,
         "tab_width": 120,
         "tab_min_width": 45,
