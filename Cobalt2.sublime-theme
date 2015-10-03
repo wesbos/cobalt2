@@ -50,6 +50,12 @@
         "attributes": ["selected"],
         "layer0.texture": "Theme - Cobalt2/Cobalt2/tab-active.png"
     },
+    // Tab transient state
+    {
+        "class": "tab_control",
+        "attributes": ["transient"],
+        "layer0.opacity": 0.1
+    },
     // Tab dirty state (close button hidden)
     {
         "class": "tab_control",
@@ -208,6 +214,19 @@
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
         "fg": [230, 230, 230],
         "shadow_color": [35, 35, 35]
+    },
+    // Transient tab label, when not selected
+    {
+        "class": "tab_label",
+        "attributes": ["transient"],
+        "fg": [140, 140, 140]
+    },
+    // Transient tab label, when selected
+    {
+        "class": "tab_label",
+        "attributes": ["transient"],
+        "parents": [{"class": "tab_control", "attributes": ["selected"]}],
+        "fg": [230, 230, 230]
     },
 
 //
