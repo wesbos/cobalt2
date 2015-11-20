@@ -905,6 +905,21 @@
         <string>#ffc600</string>
       </dict>
     </dict>
+    
+    <dict>
+      <key>name</key>
+      <string>BEM Modifier Invalid HTML Comment</string>
+      <key>scope</key>
+      <string>invalid.illegal.bad-comments-or-CDATA.html</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#0088FF</string>
+        <key>background</key>
+        <string>#17344A</string>
+      </dict>
+    </dict>
+
 
   </array>
   <key>uuid</key>
