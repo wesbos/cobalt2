@@ -1,3 +1,18 @@
+## 2.0.4 🔥 Updates! 
+
+Transient tabs are now recognisable, thanks to a transparent bg
+Addresses the BEM Modifier Invalid HTML Comment
+Some nice improvements for Markdown writers
+
+🔥📖 I wrote a book + video series on Sublime Text! → SublimeTextBook.com
+🔥📼 And I created a Training series on React.js → ReactForBeginners.com
+
+Use the coupon code COBALT2 for $15 off 💰 💵 💰 💵
+
+@wesbos 
+
+Tweets at twitter.com/@wesbos  😗 😗 😗
+
 ## 2.0.1 👌
 
 Thanks for everyone's feedback on the theme, some minor updates:
@@ -6,13 +21,8 @@ Thanks for everyone's feedback on the theme, some minor updates:
 😍 Changed the colour of JavaScript functions so they don't match variables
 😄 Change the colour of CSS properties so they don't blend in with the values
 
-📖 📖 📖 
-PS — Want to become amazing with Sublime Text? I wrote a book + video series!
-https://SublimeTextBook.com
-💵 Use the coupon code COBALT2 for $15 off 💰
-📖 📖 📖
  
-Tweets at twitter.com/@wesbos  😗 😗 😗
+
 
 
 
