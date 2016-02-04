@@ -523,7 +523,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#130D26</string>
+        <string>#1D425D</string>
       </dict>
     </dict>
     <dict>
@@ -877,23 +877,6 @@
       </dict>
     </dict>
 
-
-    <!-- CSS -->
-
-<!--     <dict>
-      <key>name</key>
-      <string>CSS Property Name</string>
-      <key>scope</key>
-      <string>support.type.property-name.css </string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#ffc600</string>
-        <key>background</key>
-        <string>#1d3d53</string>
-      </dict>
-    </dict> -->
-
     <dict>
       <key>name</key>
       <string>CSS colon Divider</string>
@@ -919,6 +902,43 @@
         <string>#17344A</string>
       </dict>
     </dict>
+    
+    <!-- 
+      Markdown Tweaks
+     -->
+    <dict>
+      <key>name</key>
+      <string>Markdown Punctuation</string>
+      <key>scope</key>
+      <string>
+        , punctuation.definition.list_item.markdown,
+        , punctuation.definition.blockquote.markdown,
+        , punctuation.definition.string.begin.markdown,
+        , punctuation.definition.string.end.markdown,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffc600</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Markdown Punctuation</string>
+      <key>scope</key>
+      <string>
+        , markup.underline.link.image.markdown,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffc600</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+
 
 
   </array>
