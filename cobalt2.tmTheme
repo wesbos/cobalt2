@@ -888,7 +888,7 @@
         <string>#ffc600</string>
       </dict>
     </dict>
-    
+
     <dict>
       <key>name</key>
       <string>BEM Modifier Invalid HTML Comment</string>
@@ -902,8 +902,8 @@
         <string>#17344A</string>
       </dict>
     </dict>
-    
-    <!-- 
+
+    <!--
       Markdown Tweaks
      -->
     <dict>
@@ -938,6 +938,32 @@
         <string>italic</string>
       </dict>
     </dict>
+
+
+    <!--
+      Operator Tweaks
+     -->
+    <dict>
+      <key>name</key>
+      <string>Italic HTML attribute names</string>
+      <key>scope</key>
+      <string>
+        , entity.other.attribute-name.html,
+        , entity.other.attribute-name.event.html,
+        , entity.other.attribute-name.id.html,
+        , entity.other.attribute-name.tag.jade,
+        , constant.other.symbol.ruby,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#ffc600</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+
+
 
 
 
