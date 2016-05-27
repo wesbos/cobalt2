@@ -1,0 +1,19 @@
+## Hooray! Cobalt2 Updates 🎉
+
+JavaScript Object Keys are no longer the same colour as strings. 
+
+JavaScript ES6 Classes are now styled properly. 
+
+Screenshots: https://github.com/wesbos/cobalt2/issues/103
+
+
+🔥📖 I wrote a book + video series on Sublime Text! → SublimeTextBook.com
+🔥📼 And I created a Training series on React.js → ReactForBeginners.com
+
+Use the coupon code COBALT2 for $15 off 💰 💵
+
+😘 With Love,
+
+@wesbos 
+
+Tweets at twitter.com/@wesbos  😗 😗 😗
