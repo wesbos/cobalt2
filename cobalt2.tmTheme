@@ -877,6 +877,60 @@
       </dict>
     </dict>
 
+   <dict>
+     <key>name</key>
+     <string>Object Keys</string>
+     <key>scope</key>
+     <string>
+      , string.unquoted.label.js,
+    </string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#2AFFDF</string>
+     </dict>
+   </dict>
+
+  <!--
+    ES6 Classes
+   -->
+
+   <dict>
+     <key>name</key>
+     <string>Class Name</string>
+     <key>scope</key>
+     <string>entity.name.class.js</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#FB94FF</string>
+     </dict>
+   </dict>
+
+   <dict>
+     <key>name</key>
+     <string>Class KeyWord</string>
+     <key>scope</key>
+     <string>storage.type.class.js</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#FF9D00</string>
+     </dict>
+   </dict>
+
+   <dict>
+     <key>name</key>
+     <string>Extends</string>
+     <key>scope</key>
+     <string>storage.type.extends.js</string>
+     <key>settings</key>
+     <dict>
+       <key>fontStyle</key>
+       <string>italic</string>
+     </dict>
+   </dict>
+
     <dict>
       <key>name</key>
       <string>CSS colon Divider</string>
@@ -939,10 +993,11 @@
       </dict>
     </dict>
 
-
     <!--
       Operator Tweaks
+      This makes all attributes italic
      -->
+
     <dict>
       <key>name</key>
       <string>Italic HTML attribute names</string>
@@ -953,6 +1008,7 @@
         , entity.other.attribute-name.id.html,
         , entity.other.attribute-name.tag.jade,
         , constant.other.symbol.ruby,
+        , entity.other.attribute-name.jsx,
       </string>
       <key>settings</key>
       <dict>
@@ -962,10 +1018,6 @@
         <string>italic</string>
       </dict>
     </dict>
-
-
-
-
 
   </array>
   <key>uuid</key>
