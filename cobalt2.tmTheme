@@ -200,21 +200,6 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Embedded Source</string>
-      <key>scope</key>
-      <string>text source, string.unquoted.heredoc, source source</string>
-      <key>settings</key>
-      <dict>
-        <key>background</key>
-        <string>#223545</string>
-        <key>fontStyle</key>
-        <string></string>
-        <key>foreground</key>
-        <string>#FFFFFF</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
       <string>Entity inherited-class</string>
       <key>scope</key>
       <string>entity.other.inherited-class</string>
