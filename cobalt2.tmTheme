@@ -692,7 +692,10 @@
         <key>name</key>
         <string>PHP class name</string>
         <key>scope</key>
-        <string>entity.name.type.class.php</string>
+        <string>
+          , entity.name.class.php, 
+          , entity.name.type.class.php,
+        </string>
         <key>settings</key>
         <dict>
             <key>foreground</key>
@@ -882,8 +885,9 @@
      <string>Object Keys</string>
      <key>scope</key>
      <string>
-      , string.unquoted.label.js,
-    </string>
+      , string.unquoted.label.js, 
+      , meta.object-literal.key.js -string,
+     </string>
      <key>settings</key>
      <dict>
        <key>foreground</key>
@@ -899,7 +903,10 @@
      <key>name</key>
      <string>Class Name</string>
      <key>scope</key>
-     <string>entity.name.class.js</string>
+     <string>
+      , entity.name.class.js, 
+      , entity.name.type.class.js,
+     </string>
      <key>settings</key>
      <dict>
        <key>foreground</key>
