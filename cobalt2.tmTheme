@@ -930,7 +930,10 @@
      <key>name</key>
      <string>Extends</string>
      <key>scope</key>
-     <string>storage.type.extends.js</string>
+     <string>
+      , storage.type.extends.js,
+      , storage.modifier.extends.js,
+     </string>
      <key>settings</key>
      <dict>
        <key>fontStyle</key>
