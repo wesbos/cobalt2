@@ -678,7 +678,7 @@
         <string>PHP class name</string>
         <key>scope</key>
         <string>
-          , entity.name.class.php, 
+          , entity.name.class.php,
           , entity.name.type.class.php,
         </string>
         <key>settings</key>
@@ -870,7 +870,7 @@
      <string>Object Keys</string>
      <key>scope</key>
      <string>
-      , string.unquoted.label.js, 
+      , string.unquoted.label.js,
       , meta.object-literal.key.js -string,
      </string>
      <key>settings</key>
@@ -889,7 +889,7 @@
      <string>Class Name</string>
      <key>scope</key>
      <string>
-      , entity.name.class.js, 
+      , entity.name.class.js,
       , entity.name.type.class.js,
      </string>
      <key>settings</key>
@@ -1000,6 +1000,8 @@
       <string>
         , entity.other.attribute-name.html,
         , entity.other.attribute-name.event.html,
+        , entity.other.attribute-name.class.html,
+        , entity.other.attribute-name.style.html,
         , entity.other.attribute-name.id.html,
         , entity.other.attribute-name.tag.jade,
         , constant.other.symbol.ruby,
