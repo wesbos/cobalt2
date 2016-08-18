@@ -1,0 +1,24 @@
+## Cobalt2 Updates 🎉🎉🎉🎉
+
+→ HTML class names are now italic like the rest of the HTML attributes
+→ Added some ES6 Class Fixes
+→ Fixes ES6 extend syntax
+→ Added Docker icons
+
+🔥📼 ES6 JavaScript Course
+
+I just released a new course called ES6 for Everyone!
+
+A premium training course to strengthen your core JavaScript skills
+and master all that ES6 has to offer.
+
+🔥📖 I also wrote a book + video series on Sublime Text! → SublimeTextBook.com
+🔥📼 And I created a Training series on React.js → ReactForBeginners.com
+
+Use the coupon code COBALT2 for $15 off 💰 💵
+
+😘 With Love,
+
+@wesbos
+
+Tweets at twitter.com/@wesbos  😗 😗 😗
