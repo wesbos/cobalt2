@@ -26,6 +26,9 @@
         <key>selection</key>
         <string>#0050a4</string>
 
+        <key>popupCss</key>
+        <string><![CDATA[ html { background-color: var(--background); color: var(--foreground); } a { color: #80FFBB; line-height: 20px; } ]]></string>
+
         <key>bracketsForeground</key>
         <string>#ffc600</string>
 
