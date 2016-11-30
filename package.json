@@ -1,0 +1,25 @@
+{
+    "name": "theme-cobalt2",
+    "displayName": "Cobalt2",
+    "description": "Cobalt2 for VS Code",
+    "version": "2.0.10",
+    "publisher": "wesbos",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "scripts": {
+        "build" : "tfx extension create --manifest-globs package.json"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobalt2",
+                "uiTheme": "vs-dark",
+                "path": "./cobalt2.tmTheme"
+            }
+        ]
+    }
+}
