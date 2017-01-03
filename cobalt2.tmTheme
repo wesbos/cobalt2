@@ -871,7 +871,10 @@
      <key>name</key>
      <string>Object Keys</string>
      <key>scope</key>
-     <string>string.unquoted.label.js, meta.object-literal.key.js -string</string>
+     <string>
+       , string.unquoted.label.js,
+       , meta.object-literal.key.js -string,
+     </string>
      <key>settings</key>
      <dict>
        <key>foreground</key>
