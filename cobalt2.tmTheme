@@ -161,7 +161,6 @@
         <string>#CCCCCC</string>
         <key>background</key>
         <string>#0d3a58</string>
-
       </dict>
     </dict>
     <dict>
@@ -681,8 +680,8 @@
         <string>PHP class name</string>
         <key>scope</key>
         <string>
-          entity.name.class.php,
-          entity.name.type.class.php,
+          , entity.name.class.php,
+          , entity.name.type.class.php,
         </string>
         <key>settings</key>
         <dict>
@@ -909,9 +908,9 @@
     <string>Template Literals - expressions</string>
     <key>scope</key>
     <string>
-      string.template.expression.punctuation.begin,
-      string.template.expression.punctuation.end,
-      string.template.expression.brace,
+      , string.template.expression.punctuation.begin,
+      , string.template.expression.punctuation.end,
+      , string.template.expression.brace,
     </string>
     <key>settings</key>
     <dict>
@@ -955,8 +954,8 @@
      <string>Class Name</string>
      <key>scope</key>
      <string>
-      entity.name.class.js,
-      entity.name.type.class.js,
+      , entity.name.class.js,
+      , entity.name.type.class.js,
      </string>
      <key>settings</key>
      <dict>
@@ -982,8 +981,8 @@
      <string>Extends</string>
      <key>scope</key>
      <string>
-      storage.type.extends.js,
-      storage.modifier.extends.js,
+      , storage.type.extends.js,
+      , storage.modifier.extends.js,
      </string>
      <key>settings</key>
      <dict>
@@ -1026,10 +1025,10 @@
       <string>Markdown Punctuation</string>
       <key>scope</key>
       <string>
-        punctuation.definition.list_item.markdown,
-        punctuation.definition.blockquote.markdown,
-        punctuation.definition.string.begin.markdown,
-        punctuation.definition.string.end.markdown,
+        , punctuation.definition.list_item.markdown,
+        , punctuation.definition.blockquote.markdown,
+        , punctuation.definition.string.begin.markdown,
+        , punctuation.definition.string.end.markdown,
       </string>
       <key>settings</key>
       <dict>
@@ -1042,9 +1041,7 @@
       <key>name</key>
       <string>Markdown Punctuation</string>
       <key>scope</key>
-      <string>
-        markup.underline.link.image.markdown,
-      </string>
+      <string>markup.underline.link.image.markdown</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -1064,14 +1061,14 @@
       <string>Italic HTML attribute names</string>
       <key>scope</key>
       <string>
-        entity.other.attribute-name.html,
-        entity.other.attribute-name.event.html,
-        entity.other.attribute-name.class.html,
-        entity.other.attribute-name.style.html,
-        entity.other.attribute-name.id.html,
-        entity.other.attribute-name.tag.jade,
-        constant.other.symbol.ruby,
-        entity.other.attribute-name.jsx,
+        , entity.other.attribute-name.html,
+        , entity.other.attribute-name.event.html,
+        , entity.other.attribute-name.class.html,
+        , entity.other.attribute-name.style.html,
+        , entity.other.attribute-name.id.html,
+        , entity.other.attribute-name.tag.jade,
+        , constant.other.symbol.ruby,
+        , entity.other.attribute-name.jsx,
       </string>
       <key>settings</key>
       <dict>
