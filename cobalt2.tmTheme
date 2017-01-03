@@ -909,9 +909,9 @@
     <string>Template Literals - expressions</string>
     <key>scope</key>
     <string>
-      template.expression.punctuation.begin,
-      template.expression.punctuation.end,
-      template.expression.brace,
+      string.template.expression.punctuation.begin,
+      string.template.expression.punctuation.end,
+      string.template.expression.brace,
     </string>
     <key>settings</key>
     <dict>
@@ -929,6 +929,20 @@
     <dict>
       <key>foreground</key>
       <string>#FFC600</string>
+    </dict>
+  </dict>
+    
+  <dict>
+    <key>name</key>
+    <string>Template Literals - language</string>
+    <key>scope</key>
+    <string>template.variable.language</string>
+    <key>settings</key>
+    <dict>
+      <key>fontStyle</key>
+      <string></string>
+      <key>foreground</key>
+      <string>#FF80E1</string>
     </dict>
   </dict>
 
