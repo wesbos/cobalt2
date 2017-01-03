@@ -681,8 +681,8 @@
         <string>PHP class name</string>
         <key>scope</key>
         <string>
-          , entity.name.class.php,
-          , entity.name.type.class.php,
+          entity.name.class.php,
+          entity.name.type.class.php,
         </string>
         <key>settings</key>
         <dict>
@@ -846,13 +846,13 @@
       <key>name</key>
       <string>JavaScript Function</string>
       <key>scope</key>
-      <string>storage.type.function.js </string>
+      <string>storage.type.function.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#ffa5f3</string>
+        <string>#FFA5F3</string>
         <key>background</key>
-        <string>#1d3c52</string>
+        <string>#1D3C52</string>
       </dict>
     </dict>
 
@@ -864,7 +864,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#2eff00</string>
+        <string>#2EFF00</string>
       </dict>
     </dict>
 
@@ -872,16 +872,65 @@
      <key>name</key>
      <string>Object Keys</string>
      <key>scope</key>
-     <string>
-      , string.unquoted.label.js,
-      , meta.object-literal.key.js -string,
-     </string>
+     <string>string.unquoted.label.js, meta.object-literal.key.js -string</string>
      <key>settings</key>
      <dict>
        <key>foreground</key>
        <string>#2AFFDF</string>
      </dict>
    </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - ticks</string>
+    <key>scope</key>
+    <string>template.begin, template.end</string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#2EFF00</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - words</string>
+    <key>scope</key>
+    <string>template</string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#9EFF80</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - expressions</string>
+    <key>scope</key>
+    <string>
+      template.expression.punctuation.begin,
+      template.expression.punctuation.end,
+      template.expression.brace,
+    </string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#FFFFFF</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - functions</string>
+    <key>scope</key>
+    <string>template.entity</string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#FFC600</string>
+    </dict>
+  </dict>
 
   <!--
     ES6 Classes
@@ -892,8 +941,8 @@
      <string>Class Name</string>
      <key>scope</key>
      <string>
-      , entity.name.class.js,
-      , entity.name.type.class.js,
+      entity.name.class.js,
+      entity.name.type.class.js,
      </string>
      <key>settings</key>
      <dict>
@@ -919,8 +968,8 @@
      <string>Extends</string>
      <key>scope</key>
      <string>
-      , storage.type.extends.js,
-      , storage.modifier.extends.js,
+      storage.type.extends.js,
+      storage.modifier.extends.js,
      </string>
      <key>settings</key>
      <dict>
@@ -963,10 +1012,10 @@
       <string>Markdown Punctuation</string>
       <key>scope</key>
       <string>
-        , punctuation.definition.list_item.markdown,
-        , punctuation.definition.blockquote.markdown,
-        , punctuation.definition.string.begin.markdown,
-        , punctuation.definition.string.end.markdown,
+        punctuation.definition.list_item.markdown,
+        punctuation.definition.blockquote.markdown,
+        punctuation.definition.string.begin.markdown,
+        punctuation.definition.string.end.markdown,
       </string>
       <key>settings</key>
       <dict>
@@ -980,7 +1029,7 @@
       <string>Markdown Punctuation</string>
       <key>scope</key>
       <string>
-        , markup.underline.link.image.markdown,
+        markup.underline.link.image.markdown,
       </string>
       <key>settings</key>
       <dict>
@@ -1001,14 +1050,14 @@
       <string>Italic HTML attribute names</string>
       <key>scope</key>
       <string>
-        , entity.other.attribute-name.html,
-        , entity.other.attribute-name.event.html,
-        , entity.other.attribute-name.class.html,
-        , entity.other.attribute-name.style.html,
-        , entity.other.attribute-name.id.html,
-        , entity.other.attribute-name.tag.jade,
-        , constant.other.symbol.ruby,
-        , entity.other.attribute-name.jsx,
+        entity.other.attribute-name.html,
+        entity.other.attribute-name.event.html,
+        entity.other.attribute-name.class.html,
+        entity.other.attribute-name.style.html,
+        entity.other.attribute-name.id.html,
+        entity.other.attribute-name.tag.jade,
+        constant.other.symbol.ruby,
+        entity.other.attribute-name.jsx,
       </string>
       <key>settings</key>
       <dict>
