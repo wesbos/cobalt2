@@ -882,6 +882,18 @@
        <string>#2AFFDF</string>
      </dict>
    </dict>
+    
+   <dict>
+     <key>name</key>
+     <string>Object Keys - strings</string>
+     <key>scope</key>
+     <string>meta.object-literal.key.string</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#9EFF80</string>
+     </dict>
+   </dict>
 
    <dict>
      <key>name</key>
