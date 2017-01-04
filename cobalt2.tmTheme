@@ -873,8 +873,8 @@
      <string>Object Keys</string>
      <key>scope</key>
      <string>
-       string.unquoted.label.js,
-       meta.object-literal.key.js,
+       , string.unquoted.label.js,
+       , meta.object-literal.key.js,
     </string>
      <key>settings</key>
      <dict>
