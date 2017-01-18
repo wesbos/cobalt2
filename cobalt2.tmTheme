@@ -925,7 +925,10 @@
     <key>name</key>
     <string>Template Literals - ticks</string>
     <key>scope</key>
-    <string>template.begin, template.end</string>
+    <string>
+      , template.begin,
+      , template.end,
+    </string>
     <key>settings</key>
     <dict>
       <key>foreground</key>
