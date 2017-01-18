@@ -859,7 +859,10 @@
       <key>name</key>
       <string>Quotes</string>
       <key>scope</key>
-      <string>punctuation.definition.string.begin.js, punctuation.definition.string.end.js</string>
+      <string>
+        , punctuation.definition.string.begin.js,
+        , punctuation.definition.string.end.js,
+      </string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -873,12 +876,48 @@
      <key>scope</key>
      <string>
        , string.unquoted.label.js,
-       , meta.object-literal.key.js -string,
-     </string>
+       , meta.object-literal.key.js,
+    </string>
      <key>settings</key>
      <dict>
        <key>foreground</key>
        <string>#2AFFDF</string>
+     </dict>
+   </dict>
+    
+   <dict>
+     <key>name</key>
+     <string>Object Keys - strings</string>
+     <key>scope</key>
+     <string>meta.object-literal.key.string.quoted</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#80FFBB</string>
+     </dict>
+   </dict>
+
+   <dict>
+     <key>name</key>
+     <string>Object Keys - functions</string>
+     <key>scope</key>
+     <string>meta.object-literal.key.entity</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#FFC600</string>
+     </dict>
+   </dict>
+
+   <dict>
+     <key>name</key>
+     <string>Object Keys - colons after</string>
+     <key>scope</key>
+     <string>meta.object-literal.key.punctuation</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#FFFFFF</string>
      </dict>
    </dict>
 
