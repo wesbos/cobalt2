@@ -161,7 +161,6 @@
         <string>#CCCCCC</string>
         <key>background</key>
         <string>#0d3a58</string>
-
       </dict>
     </dict>
     <dict>
@@ -846,13 +845,13 @@
       <key>name</key>
       <string>JavaScript Function</string>
       <key>scope</key>
-      <string>storage.type.function.js </string>
+      <string>storage.type.function.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#ffa5f3</string>
+        <string>#FFA5F3</string>
         <key>background</key>
-        <string>#1d3c52</string>
+        <string>#1D3C52</string>
       </dict>
     </dict>
 
@@ -867,7 +866,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#2eff00</string>
+        <string>#2EFF00</string>
       </dict>
     </dict>
 
@@ -921,6 +920,75 @@
        <string>#FFFFFF</string>
      </dict>
    </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - ticks</string>
+    <key>scope</key>
+    <string>
+      , template.begin,
+      , template.end,
+    </string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#2EFF00</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - words</string>
+    <key>scope</key>
+    <string>template</string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#9EFF80</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - expressions</string>
+    <key>scope</key>
+    <string>
+      , string.template.expression.punctuation.begin,
+      , string.template.expression.punctuation.end,
+      , string.template.expression.brace,
+    </string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#FFFFFF</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - functions</string>
+    <key>scope</key>
+    <string>template.entity</string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#FFC600</string>
+    </dict>
+  </dict>
+    
+  <dict>
+    <key>name</key>
+    <string>Template Literals - language</string>
+    <key>scope</key>
+    <string>template.variable.language</string>
+    <key>settings</key>
+    <dict>
+      <key>fontStyle</key>
+      <string></string>
+      <key>foreground</key>
+      <string>#FF80E1</string>
+    </dict>
+  </dict>
 
   <!--
     ES6 Classes
@@ -1018,9 +1086,7 @@
       <key>name</key>
       <string>Markdown Punctuation</string>
       <key>scope</key>
-      <string>
-        , markup.underline.link.image.markdown,
-      </string>
+      <string>markup.underline.link.image.markdown</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
