@@ -1,4 +1,4 @@
-#Cobalt2
+# Cobalt2
 
 A Sublime Text theme based on our old blue friend cobalt.
 
