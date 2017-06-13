@@ -926,8 +926,8 @@
     <string>Template Literals - ticks</string>
     <key>scope</key>
     <string>
-      , template.begin,
-      , template.end,
+      , punctuation.definition.string.template.begin.js,
+      , punctuation.definition.string.template.end.js,
     </string>
     <key>settings</key>
     <dict>
@@ -940,7 +940,7 @@
     <key>name</key>
     <string>Template Literals - words</string>
     <key>scope</key>
-    <string>template</string>
+    <string>string.template.js</string>
     <key>settings</key>
     <dict>
       <key>foreground</key>
@@ -953,9 +953,9 @@
     <string>Template Literals - expressions</string>
     <key>scope</key>
     <string>
-      , string.template.expression.punctuation.begin,
-      , string.template.expression.punctuation.end,
-      , string.template.expression.brace,
+      , string.template punctuation,
+      , string.template punctuation,
+      , string.template punctuation,
     </string>
     <key>settings</key>
     <dict>
@@ -980,7 +980,7 @@
     <key>name</key>
     <string>Template Literals - language</string>
     <key>scope</key>
-    <string>template.variable.language</string>
+    <string>string.template variable</string>
     <key>settings</key>
     <dict>
       <key>fontStyle</key>
@@ -989,6 +989,81 @@
       <string>#FF80E1</string>
     </dict>
   </dict>
+
+    <!-- TYPESCRIPT! -->
+    <dict>
+      <key>name</key>
+      <string>TypeScript Function</string>
+      <key>scope</key>
+      <string>storage.type.function.ts</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFA5F3</string>
+        <key>background</key>
+        <string>#1D3C52</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Quotes</string>
+      <key>scope</key>
+      <string>
+        , punctuation.definition.string.begin.ts,
+        , punctuation.definition.string.end.ts,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2EFF00</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Template Literals - ticks</string>
+      <key>scope</key>
+      <string>
+        , punctuation.definition.string.template.begin.ts,
+        , punctuation.definition.string.template.end.ts,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2EFF00</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Template Literals - words</string>
+      <key>scope</key>
+      <string>string.template.ts</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#9EFF80</string>
+      </dict>
+    </dict>
+
+
+   <dict>
+     <key>name</key>
+     <string>Object Keys</string>
+     <key>scope</key>
+     <string>
+       , string.unquoted.label.ts,
+       , meta.object-literal.key.ts,
+    </string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#2AFFDF</string>
+     </dict>
+   </dict>
+
+
 
   <!--
     ES6 Classes
