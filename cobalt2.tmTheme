@@ -953,9 +953,7 @@
     <string>Template Literals - expressions</string>
     <key>scope</key>
     <string>
-      , string.template punctuation,
-      , string.template punctuation,
-      , string.template punctuation,
+      , string.template.js punctuation,
     </string>
     <key>settings</key>
     <dict>
@@ -1047,6 +1045,19 @@
       </dict>
     </dict>
 
+    <dict>
+      <key>name</key>
+      <string>Template Literals - expressions</string>
+      <key>scope</key>
+      <string>
+        , string.template.ts punctuation,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFFFFF</string>
+      </dict>
+    </dict>
 
    <dict>
      <key>name</key>
