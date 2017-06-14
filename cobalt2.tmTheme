@@ -988,6 +988,116 @@
     </dict>
   </dict>
 
+    <!-- JSX! -->
+    <dict>
+      <key>name</key>
+      <string>JavaScript Function</string>
+      <key>scope</key>
+      <string>storage.type.function.jsx</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFA5F3</string>
+        <key>background</key>
+        <string>#1D3C52</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Quotes</string>
+      <key>scope</key>
+      <string>
+        , punctuation.definition.string.begin.jsx,
+        , punctuation.definition.string.end.jsx,
+      </string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2EFF00</string>
+      </dict>
+    </dict>
+
+   <dict>
+     <key>name</key>
+     <string>Object Keys</string>
+     <key>scope</key>
+     <string>
+       , string.unquoted.label.jsx,
+       , meta.object-literal.key.jsx,
+    </string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#2AFFDF</string>
+     </dict>
+   </dict>
+    
+   <dict>
+     <key>name</key>
+     <string>Object Keys - strings</string>
+     <key>scope</key>
+     <string>meta.object-literal.key.string.quoted</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#80FFBB</string>
+     </dict>
+   </dict>
+
+   <dict>
+     <key>name</key>
+     <string>Object Keys - functions</string>
+     <key>scope</key>
+     <string>meta.object-literal.key.entity</string>
+     <key>settings</key>
+     <dict>
+       <key>foreground</key>
+       <string>#FFC600</string>
+     </dict>
+   </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - ticks</string>
+    <key>scope</key>
+    <string>
+      , punctuation.definition.string.template.begin.jsx,
+      , punctuation.definition.string.template.end.jsx,
+    </string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#2EFF00</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - words</string>
+    <key>scope</key>
+    <string>string.template.jsx</string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#9EFF80</string>
+    </dict>
+  </dict>
+
+  <dict>
+    <key>name</key>
+    <string>Template Literals - expressions</string>
+    <key>scope</key>
+    <string>
+      , string.template.jsx punctuation,
+    </string>
+    <key>settings</key>
+    <dict>
+      <key>foreground</key>
+      <string>#FFFFFF</string>
+    </dict>
+  </dict>
+
     <!-- TYPESCRIPT! -->
     <dict>
       <key>name</key>
@@ -1087,6 +1197,8 @@
      <string>
       , entity.name.class.js,
       , entity.name.type.class.js,
+      , entity.name.class.jsx,
+      , entity.name.type.class.jsx,
      </string>
      <key>settings</key>
      <dict>
@@ -1099,7 +1211,10 @@
      <key>name</key>
      <string>Class KeyWord</string>
      <key>scope</key>
-     <string>storage.type.class.js</string>
+     <string>
+        , storage.type.class.js,
+        , storage.type.class.jsx,
+    </string>
      <key>settings</key>
      <dict>
        <key>foreground</key>
@@ -1114,6 +1229,8 @@
      <string>
       , storage.type.extends.js,
       , storage.modifier.extends.js,
+      , storage.type.extends.jsx,
+      , storage.modifier.extends.jsx,
      </string>
      <key>settings</key>
      <dict>
