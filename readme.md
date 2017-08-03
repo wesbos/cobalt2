@@ -1,7 +1,8 @@
-#cobalt2
+# Cobalt2
+
 A Sublime Text theme based on our old blue friend cobalt.
 
-A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins.
+A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full Sublime Text theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins.
 
 See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-text-2/](http://wesbos.com/cobalt2-theme-sublime-text-2/)
 
@@ -120,32 +121,33 @@ Use `"indent_guide_options": ["draw_normal", "draw_active"]` for this
 ![](http://wes.io/YJMN/content)
 
 ## Contributing
-While cobalt2 covers all languages, I write mostly JavaScript and CSS so I welcome any additions for other languages.
+
+While Cobalt2 covers all languages, I write mostly JavaScript and CSS so I welcome any additions for other languages.
 
 ### Thanks
 
 Some icons from [Soda Theme by Ian Hill](https://github.com/buymeasoda/soda-theme/)
 
-[Kyle Knight](https://twitter.com/kyleknighted) for pushing cobalt2 past the code screen and styling the entire editor.
+[Kyle Knight](https://twitter.com/kyleknighted) for pushing Cobalt2 past the code screen and styling the entire editor.
 
 Seti UI Atom theme for the sidebar icons
 
 ## Official Colours
 
-Yellow: #ffc600
-Orange: #FF9D00
-Mint: #2AFFDF
-Blue: #193549
-Off Blue: #0D3A58 (use on variable bgs)
-Dusty Blue: #35434d
-Dark Blue: #15232D
-Pink: #FB94FF
-Light Blue: #9EFFFF
+Yellow: #ffc600    
+Orange: #FF9D00    
+Mint: #2AFFDF    
+Blue: #193549    
+Off Blue: #0D3A58 (use on variable bgs)    
+Dusty Blue: #35434d    
+Dark Blue: #15232D    
+Pink: #FB94FF    
+Light Blue: #9EFFFF    
 
 ### You may also like:
 
-- Cobalt2 Theme for iTerm <https://github.com/wesbos/Cobalt2-iterm>
-- Cobalt2 for Alfred <https://github.com/wesbos/Cobalt2-Alfred-Theme>
-- Cobalt2 for Atom <https://github.com/wesbos/cobalt2-atom>
+- [Cobalt2 Theme for iTerm](https://github.com/wesbos/Cobalt2-iterm)
+- [Cobalt2 for Alfred](https://github.com/wesbos/Cobalt2-Alfred-Theme)
+- [Cobalt2 for Atom](https://github.com/wesbos/cobalt2-atom)
 
 I also wrote the [Sublime Text Power User Book and video package](https://SublimeTextBook.com) - if you want to become amazing with Sublime Text, check it out!
