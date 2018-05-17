@@ -20,7 +20,7 @@
         <key>foreground</key>
         <string>#FFFFFF</string>
         <key>invisibles</key>
-        <string>#ffc600</string>
+        <string>#7f7f7fb2</string>
         <key>lineHighlight</key>
         <string>#1f4662</string>
         <key>selection</key>
@@ -884,7 +884,7 @@
        <string>#2AFFDF</string>
      </dict>
    </dict>
-    
+
    <dict>
      <key>name</key>
      <string>Object Keys - strings</string>
@@ -973,7 +973,7 @@
       <string>#FFC600</string>
     </dict>
   </dict>
-    
+
   <dict>
     <key>name</key>
     <string>Template Literals - language</string>
@@ -1032,7 +1032,7 @@
        <string>#2AFFDF</string>
      </dict>
    </dict>
-    
+
    <dict>
      <key>name</key>
      <string>Object Keys - strings</string>
