@@ -57,14 +57,14 @@ Adjust the sidebar's padding by using these settings in your user config:
 
 ## Screenshots
 
-![](http://wes.io/YIjn/content)
+![](https://wes.io/YIjn/content)
 
 ### Sidebar Icons
 
-![](http://wes.io/YIjh/content)
+![](https://wes.io/YIjh/content)
 
 ### Dirty Tab and Selected Tab
-![](http://wes.io/YIZx/content)
+![](https://wes.io/YIZx/content)
 
 ### Indentation Guides — Guide, Stacked Guide and Active Guide
 
@@ -72,53 +72,53 @@ Use `"indent_guide_options": ["draw_normal", "draw_active"]` for this
 
 ### GitGutter Support
 
-![](http://wes.io/YIu3/content)
+![](https://wes.io/YIu3/content)
 
 ### Autocomplete
 
-![](http://wes.io/YItl/content)
+![](https://wes.io/YItl/content)
 
 ### Command Palette 
 
-![](http://wes.io/YIpV/content)
+![](https://wes.io/YIpV/content)
 
 ### GoTo Anything
 
-![](http://wes.io/YIhm/content)
+![](https://wes.io/YIhm/content)
 
 ### Tabs, Spaces and Comments
 
-![](http://wes.io/YIho/content)
+![](https://wes.io/YIho/content)
 
 ### Folding Lines
 
-![](http://wes.io/YImN/content)
+![](https://wes.io/YImN/content)
 
 ### Searches
-![](http://wes.io/YIj0/content)
+![](https://wes.io/YIj0/content)
 
 ### Highlighted Line
 
-![](http://wes.io/YIpZ/content)
+![](https://wes.io/YIpZ/content)
 
 ### JavaScript
-![](http://wes.io/Lwc6/content)
+![](https://wes.io/Lwc6/content)
 
 ### CSS
-![](http://wes.io/YIqI/content)
+![](https://wes.io/YIqI/content)
 
 ### PHP
-![](http://wes.io/YIa5/content)
+![](https://wes.io/YIa5/content)
 
 ### Ruby
-![](http://wes.io/YIpO/content)
+![](https://wes.io/YIpO/content)
 
 ### Python
-![](http://wes.io/YIuH/content)
+![](https://wes.io/YIuH/content)
 
 ### Markdown
 
-![](http://wes.io/YJMN/content)
+![](https://wes.io/YJMN/content)
 
 ## Contributing
 
